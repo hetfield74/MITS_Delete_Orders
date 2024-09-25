@@ -18,7 +18,7 @@ if (defined('MODULE_MITS_DELETE_ORDERS_STATUS') && MODULE_MITS_DELETE_ORDERS_STA
       'admin_access_name' => 'mits_delete_orders',
       'filename'          => FILENAME_MITS_DELETE_ORDERS,
       'boxname'           => MITS_BOX_DELETE_ORDERS,
-      'parameter'         => '',
+      'parameters'        => '',
       'ssl'               => ''
     );
 }
